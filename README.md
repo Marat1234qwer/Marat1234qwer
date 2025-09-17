@@ -3,5 +3,17 @@
 <h2 align="center">Make World Great Again!</h2>
 <h3 align="center">Let's Coding!</h3>
 
-![Snake dark theme](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg?color_snake=blue&color_dots=%23333,%23252,%23111,%23090,%23000&color_bg=0d1117)
+## 🐍 Моя активность на GitHub
+
+![Snake dark animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+
+*Змейка ползает по моим контрибуциям... 🐍*
+
+```mermaid
+graph LR
+    A[💻 Кодинг] --> B[🐛 Исправления]
+    B --> C[🚀 Деплой]
+    C --> D[📊 Аналитика]
+    D --> A
+```
 
