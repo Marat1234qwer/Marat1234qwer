@@ -3,7 +3,6 @@
 <h2 align="center">Make World Great Again!</h2>
 <h3 align="center">Let's Coding!</h3>
 
-## 🐍 Моя активность на GitHub
 
 ![Snake dark animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
