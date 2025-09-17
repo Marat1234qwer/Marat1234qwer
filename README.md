@@ -3,4 +3,5 @@
 <h2 align="center">Make World Great Again!</h2>
 <h3 align="center">Let's Coding!</h3>
 
-![Snake dark orange](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg?color_snake=orange&color_dots=%23333,%23252,%23111,%23090,%23000)
+![Snake dark theme](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg?color_snake=blue&color_dots=%23333,%23252,%23111,%23090,%23000&color_bg=0d1117)
+
