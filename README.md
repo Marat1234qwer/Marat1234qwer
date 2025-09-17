@@ -47,4 +47,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+https://skillicons.dev/icons?i=c,python,kotlin,js,php,postgresql,mysql,nodejs,html,css,android,docker,kubernetes,git,linux
+
 
