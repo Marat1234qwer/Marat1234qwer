@@ -4,15 +4,7 @@
 <h3 align="center">Let's Coding!</h3>
 
 
-# 🐍 Змейка, поедающая мои контрибуции
-
-![Snake animation](https://github.com/Marat1234qwer/Marat1234qwer/blob/output/github-contribution-grid-snake.svg)
-
-## 📊 Активность GitHub
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Marat1234qwer&theme=github&area=true&hide_border=true)](https://github.com/Marat1234qwer)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marat1234qwer&show_icons=true&theme=radical&hide_border=true)](https://github.com/Marat1234qwer)
+![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marat1234qwer&show_icons=true&theme=dark)](https://github.com/Marat1234qwer)
