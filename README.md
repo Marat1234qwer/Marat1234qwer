@@ -7,13 +7,5 @@
 
 ![Snake dark animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
-*Змейка ползает по моим контрибуциям... 🐍*
 
-```mermaid
-graph LR
-    A[💻 Кодинг] --> B[🐛 Исправления]
-    B --> C[🚀 Деплой]
-    C --> D[📊 Аналитика]
-    D --> A
-```
 
