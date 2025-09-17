@@ -3,6 +3,18 @@
 <h2 align="center">Make World Great Again!</h2>
 <h3 align="center">Let's Coding!</h3>
 
+
+# 🐍 Змейка, поедающая мои контрибуции
+
+![Snake animation](https://github.com/Marat1234qwer/Marat1234qwer/blob/output/github-contribution-grid-snake.svg)
+
+## 📊 Активность GitHub
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Marat1234qwer&theme=github&area=true&hide_border=true)](https://github.com/Marat1234qwer)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marat1234qwer&show_icons=true&theme=radical&hide_border=true)](https://github.com/Marat1234qwer)
+
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marat1234qwer&show_icons=true&theme=dark)](https://github.com/Marat1234qwer)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marat1234qwer&layout=compact&theme=dark)](https://github.com/Marat1234qwer)
@@ -51,12 +63,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Marat1234qwer&theme=dark)](https://git.io/streak-stats)
-
-
-## 🌐 Socials
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=WhatsApp)](https://wa.me/79182167423)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&label=Telegram)](https://t.me/MaratShams)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email)](mailto:shamsytdinovmarat@gmail.com)
